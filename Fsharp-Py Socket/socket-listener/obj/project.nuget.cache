@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkgF2wuiQUvDNJphkpQRa9GzUBNTRI4LX40Pt3uwfvOvhF7DoJ3yer3AdntVUucmU74ZYcfq744rVDgOHts44g==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Smol-POC\\Fsharp-Py Socket\\socket-listener\\socket-listener.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosua\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512",
+    "C:\\Users\\yosua\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

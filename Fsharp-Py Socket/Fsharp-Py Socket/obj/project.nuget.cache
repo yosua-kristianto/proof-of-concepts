@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vgijr1azOd+VIjcHMJjq1SvTIIErE52D2UJiA0lMZnswtmKdTGI4NP9pXzNcxVCNDdGWeP6o5FtobYpsdaom6A==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Smol-POC\\Fsharp-Py Socket\\Fsharp-Py Socket\\Main.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yosua\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
